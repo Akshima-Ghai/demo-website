@@ -1,0 +1,142 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 200%;
+  background-color:  #EAF6F6;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2{
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  margin: 50px auto;
+}
+
+h3{
+  font-weight: normal;
+   color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p{
+  font-size: 18px;
+
+
+
+}
+a{
+  color:  #11999E;
+}
+div{
+  display: block;
+  margin: 0;
+}
+
+hr{
+  width : 4%;
+  border : dotted black 6px;
+  border-bottom: none ;
+  margin-top: 100px;
+}
+
+.pro{
+  font-family: 'Lobster', cursive;
+}
+.skill-row{
+  text-align: left;
+  width: 50%;
+  margin: 50px auto;
+}
+
+.code-img{
+  width: 25%;
+  float: right;
+  margin-left:30px;
+}
+
+.chilli-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chilli-img{
+  width: 25%;
+}
+
+.intro {
+  width: 30%;
+  margin: 50px auto;
+}
+
+.top-container{
+  padding: 100px;
+  position: relative;
+}
+
+
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 20px 30px
+
+
+}
+
+.footer-link{
+  padding: 10px;
+}
+
+.pic{
+  height: 30%
+}
+
+.red{
+  display: inline-block;
+  position: absolute;
+
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  left: 200px;
+  top: 200px;
+}
+
+.blue{
+  display: inline-block;
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  left: 100px;
+  top: 100px;
+}
+
+.yellow{
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  right: 100px;
+  background-color: yellow;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 200px;
+  bottom: 400px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
